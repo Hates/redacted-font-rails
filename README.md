@@ -41,5 +41,16 @@ add this to your `application.css.sass` file:
 @import redacted-font
 ```
 
+## Styles
+
+Use the provided styles to easily add the font to element:
+
+```
+<div class="font-redacted"></div>
+<div class="font-redacted-script"></div>
+<div class="font-redacted-script-bold"></div>
+<div class="font-redacted-script"></div>
+```
+
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
