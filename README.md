@@ -45,7 +45,7 @@ add this to your `application.css.sass` file:
 
 Use the provided styles to easily add the font to element:
 
-```
+```html
 <div class="font-redacted"></div>
 <div class="font-redacted-script"></div>
 <div class="font-redacted-script-bold"></div>
